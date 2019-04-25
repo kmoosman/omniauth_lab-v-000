@@ -11,7 +11,6 @@ class SessionsController < ApplicationController
 
     render 'welcome/home'
 
-
   end
 
 end
